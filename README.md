@@ -1,16 +1,17 @@
 # 💫 Hi 👋, I'm Sakshi Galle  
 **An Electronics and Communication Engineering student with a keen interest in VLSI Design and Semiconductor Technology**
 
-📧 **Reach Me At:** sakshigalle@gmail.com  
+📧 **Reach Me At:** sakshigalle@gmail.com 
+
 🔍 **Currently Exploring:** Digital Design and HDL Programming  
 🤝 **Looking to Collaborate On:** VLSI-based academic projects, RTL design, and verification  
 💬 **Ask Me About:** Study strategies, ECE concepts, or anything tech-related  
-⚡ **Fun Fact:** I find logic gates oddly satisfying 😄
+
 - 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sakshigalle) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshi galle  ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshigalle@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sakshigalle) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshigalle) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshigalle@gmail.com) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
