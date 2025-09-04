@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/divyanshmishra1">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hi%2C+I+am+Sakshi+galle;ECE+Undergrad+at+JCE+belagavi;Aspiring+VLSI+Engineer+%7C+FPGA+and+EDA+Explorer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hi%2C+I+am+Sakshi+galle;ECE+Undergrad+at+JCE+belagavi;Aspiring+VLSI+Engineer+%7C+Embedded+Systems">
   </a>
 </p>
 
