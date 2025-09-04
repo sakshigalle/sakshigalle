@@ -1,14 +1,16 @@
-# 💫 Hi 👋, I'm Sakshi Galle  
-**An Electronics and Communication Engineering student with a keen interest in VLSI Design and Semiconductor Technology**
+<h3 align="center">
+  Welcome to Sakshi Galle's GitHub Profile! 👋
+</h3>
 
-📧 **Reach Me At:** sakshigalle@gmail.com 
+<p align="center">
+  <a href="https://github.com/divyanshmishra1">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hi%2C+I+am+Divyansh+Mishra;ECE+Undergrad+at+IIIT+Dharwad;Aspiring+VLSI+Engineer+%7C+FPGA+and+EDA+Explorer">
+  </a>
+</p>
 
-🔍 **Currently Exploring:** Digital Design and HDL Programming  
-🤝 **Looking to Collaborate On:** VLSI-based academic projects, RTL design, and verification  
-💬 **Ask Me About:** Study strategies, ECE concepts, or anything tech-related  
+---
 
-- 
-
+<div align="center">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sakshigalle) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshigalle) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshigalle@gmail.com) 
