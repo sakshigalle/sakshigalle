@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="Images/profile.png" width="170"/>
+
 
 # 𝓗𝓲, 𝓘'𝓶 𝓢𝓪𝓴𝓼𝓱𝓲 𝓖𝓪𝓵𝓵𝓮
 
