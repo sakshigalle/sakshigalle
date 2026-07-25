@@ -4,7 +4,7 @@
 
 
 
-# 𝓗𝓲, 𝓘'𝓶 𝓢𝓪𝓴𝓼𝓱𝓲 𝓖𝓪𝓵𝓵𝓮
+# 𝓗𝓲, 𝓘'𝓶 𝓢𝓪𝓴𝓼𝓱𝓲 
 
 ### RTL Design • Verilog HDL • ASIC Design • Semiconductor Technology
 
