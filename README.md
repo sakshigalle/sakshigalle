@@ -33,6 +33,6 @@ Interested in:
 ![Git](https://img.shields.io/badge/Git-Version_Control-F8BBD0?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-OS-F8BBD0?style=for-the-badge)
 ---
-<img src="https://komarev.com/ghpvc/?username=pixelcrisscross&color=8b5cf6&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=sakshigalle&color=F8BBD0&style=flat-square&label=Profile+Views" />
 
 
