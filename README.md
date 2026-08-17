@@ -32,7 +32,6 @@ Interested in:
 ![Synopsys](https://img.shields.io/badge/Synopsys-EDA-F8BBD0?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-Version_Control-F8BBD0?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-OS-F8BBD0?style=for-the-badge)
----
-<img src="https://komarev.com/ghpvc/?username=sakshigalle&color=F8BBD0&style=flat-square&label=Profile+Views" />
+
 
 
